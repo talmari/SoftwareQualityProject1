@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/target/classes;C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/target/test-classes;C:/Users/talma/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/talma/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/talma/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/src/test/java;C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/talma/Software-Quality-Projects/Software-Quality-Projects/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\classes = 1674705453694
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\test-classes = 1674705453865
+C:\Users\talma\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1673977982319
+C:\Users\talma\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1673977982318
+C:\Users\talma\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1673979674415
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\src\test\java = 1673985022267
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\generated-test-sources\test-annotations = 1674705453752
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\allclasses-frame.html = 1674705461142
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\allclasses-noframe.html = 1674705461144
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\constant-values.html = 1674705461077
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\deprecated-list.html = 1674705461140
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\help-doc.html = 1674705461156
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\index-all.html = 1674705461134
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\index.html = 1674705461148
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1674705461122
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\package-list = 1674705461055
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\script.js = 1674705461161
+C:\Users\talma\Software-Quality-Projects\Software-Quality-Projects\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1674705461159
